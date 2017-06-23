@@ -1,2 +1,2 @@
 # Binary-Search-Tree-Excercise
-using a binary search tree witch supports adding removing sorting and inorder traversal, 
+Using a binary search to create store strings read in from a file tree witch support adding, removing sorting and inorder traversal
